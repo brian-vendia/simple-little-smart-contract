@@ -10,6 +10,8 @@ This repository shows how to deploy a Lambda suitable for definition as a Vendia
 
 * [AWS CLI version 2](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 
+* [jq](https://stedolan.github.io/jq/)
+
 ## Clone the Repository
 
 In order to use this example, you'll first need to clone the respository.
